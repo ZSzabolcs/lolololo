@@ -12,3 +12,4 @@ C:\Users\CsKrisz\source\repos\LOL\LOL\obj\Debug\net8.0\refint\LOL.dll
 C:\Users\CsKrisz\source\repos\LOL\LOL\obj\Debug\net8.0\LOL.pdb
 C:\Users\CsKrisz\source\repos\LOL\LOL\obj\Debug\net8.0\LOL.genruntimeconfig.cache
 C:\Users\CsKrisz\source\repos\LOL\LOL\obj\Debug\net8.0\ref\LOL.dll
+C:\Users\CsKrisz\source\repos\LOL\LOL\obj\Debug\net8.0\LOL.sourcelink.json
