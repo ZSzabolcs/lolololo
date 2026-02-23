@@ -75,7 +75,6 @@ namespace LOL
             {
                 Console.WriteLine($"Hiba: {ex.Message}");
             }
-            //asd
         }
     }
 }
